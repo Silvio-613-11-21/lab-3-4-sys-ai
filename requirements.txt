@@ -1,0 +1,10 @@
+flet 
+numpy
+opencv-contrib-python
+pyautogui
+pillow
+pytesseract
+
+# matplotlib
+# scikit-learn
+# #sklearn
