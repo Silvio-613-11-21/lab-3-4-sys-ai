@@ -4,22 +4,7 @@ __pycache__/
 build/
 dist/
 wheels/
-*.egg-info/
+*.egg-info
 
 # Virtual environments
-.venv/
-venv/
-
-# Тестовый кэш
-.pytest_cache/
-.ruff_cache/
-.coverage
-htmlcov/
-
-# Результаты работы программы (создаются кнопкой «Сохранить результат»)
-results/
-
-# Локальные настройки IDE
-.idea/
-.vscode/
-.DS_Store
+.venv
